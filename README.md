@@ -13,3 +13,6 @@ tsc.cmd  datatypes.ts or tsc  datatypes.ts
 
 4. Run typescript program
 node datatypes.js
+
+Testing programs
+1.

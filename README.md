@@ -15,4 +15,4 @@ tsc.cmd  datatypes.ts or tsc  datatypes.ts
 node datatypes.js
 
 Testing programs
-1.
+1. First Program
